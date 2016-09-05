@@ -1,0 +1,13 @@
+p.info1,p.info2 {
+    font-family: Roboto;
+    font-size: 18px;
+
+}
+
+p.info2 {
+    font-color: indigo;
+}
+
+body {
+    padding-top: 5%;
+}
